@@ -1,6 +1,6 @@
 # pomodoro-timer
 
-## pomodoro time management util using dart and flutter
+## time management util using dart and flutter
 
 -   select pomodoro cycle (seconds) : 1, 3, 5, 7, 9
 -   play or pause pomodoro timer
